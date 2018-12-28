@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hook", "dll\dll.vcxproj", "{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Debug|x64.ActiveCfg = Debug|x64
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Debug|x64.Build.0 = Debug|x64
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Debug|x86.Build.0 = Debug|Win32
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Release|x64.ActiveCfg = Release|x64
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Release|x64.Build.0 = Release|x64
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Release|x86.ActiveCfg = Release|Win32
+		{DAAF5C8E-D034-4144-B5AB-DF0D7A028FC3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0A90C9-055E-48AD-9D37-ACB6675625F3}
+	EndGlobalSection
+EndGlobal

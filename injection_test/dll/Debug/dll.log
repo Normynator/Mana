@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+d:\detour_test\dll\dllmain.cpp(98): warning C4101: "ReplyAddr": Unreferenzierte lokale Variable
+d:\detour_test\dll\dllmain.cpp(47): warning C4731: "chat_hist_hook": Das Framezeigerregister "ebp" wurde vom Inlineassemblycode geändert.
+detours.lib(detours.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(detours.obj)" oder an "D:\detour_test\Debug\detours.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+detours.lib(disasm.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(disasm.obj)" oder an "D:\detour_test\Debug\detours.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  dll.vcxproj -> D:\detour_test\Debug\hook.dll

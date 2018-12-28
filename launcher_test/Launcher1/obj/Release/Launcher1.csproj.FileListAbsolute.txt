@@ -1,0 +1,17 @@
+C:\Users\norm\source\repos\Launcher1\Launcher1\bin\Release\Launcher1.exe.config
+C:\Users\norm\source\repos\Launcher1\Launcher1\bin\Release\Launcher1.exe
+C:\Users\norm\source\repos\Launcher1\Launcher1\bin\Release\Launcher1.pdb
+C:\Users\norm\source\repos\Launcher1\Launcher1\bin\Release\XamlAnimatedGif.dll
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.csprojAssemblyReference.cache
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\MainWindow.g.cs
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\App.g.cs
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1_MarkupCompile.cache
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1_MarkupCompile.lref
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\MainWindow.baml
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.g.resources
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.Properties.Resources.resources
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.csproj.GenerateResource.cache
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.csproj.CoreCompileInputs.cache
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.csproj.CopyComplete
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.exe
+C:\Users\norm\source\repos\Launcher1\Launcher1\obj\Release\Launcher1.pdb

@@ -1,0 +1,13 @@
+﻿  dllmain.cpp
+d:\detour_test\dll\sigscan.h(24): warning C4311: "Typumwandlung": Zeigerverkürzung von "LPVOID" zu "DWORD"
+d:\detour_test\dll\sigscan.h(24): warning C4302: "Typumwandlung": Verkürzung von "LPVOID" in "DWORD"
+d:\detour_test\dll\sigscan.h(33): warning C4312: "Typumwandlung": Konvertierung von "unsigned long" in größeren Typ "char *"
+d:\detour_test\dll\dllmain.cpp(26): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "sum"
+dllmain.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "DetourTransactionBegin" in Funktion "DllMain".
+dllmain.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "DetourTransactionCommit" in Funktion "DllMain".
+dllmain.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "DetourUpdateThread" in Funktion "DllMain".
+dllmain.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "DetourAttach" in Funktion "DllMain".
+dllmain.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "DetourDetach" in Funktion "DllMain".
+detours.lib : warning LNK4272: Bibliothekcomputertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64"
+D:\detour_test\dll\detours.lib : warning LNK4272: Bibliothekcomputertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64"
+D:\detour_test\x64\Debug\hook.dll : fatal error LNK1120: 5 nicht aufgelöste Externe
